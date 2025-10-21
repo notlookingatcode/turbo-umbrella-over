@@ -1,0 +1,4 @@
+table_id,customer_id,cost_of_goods,something_else
+1,1,10,"what"
+2,1,10,"something else"
+3,2,100,"wow this is data"
